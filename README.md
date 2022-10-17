@@ -20,7 +20,7 @@
 
 
 ### 🧑🏻‍💻 ***About Me***
-🌱 I usually work with HTML, CSS, Javascript, Typescript, NextJS, VueJS, ReactJS
+🌱 I usually work with HTML, CSS, Javascript, Typescript, ReactJS, NextJS, VueJS, Golang, v.v...
 <br />
 <br />
 📫 Ask me anything you want here, If I were alive, I would reply within seconds 😉
