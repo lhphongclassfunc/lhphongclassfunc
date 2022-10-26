@@ -1,7 +1,7 @@
 <h3 >Hi 👋, I'm Le Hong Phong (Lee Wind) </span><img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="30px" height="30px" alt="totoro">
 <br />
 <h3>ClassFunc Company - Viet Nam </span>
-<h4>A passionate frontend developer love to build and share new things with others</h3>
+<h4>A web developer love to build and share new things with others</h3>
 
 <br />
 
