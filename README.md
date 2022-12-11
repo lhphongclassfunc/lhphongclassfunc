@@ -6,7 +6,7 @@
 <br />
 
 <div align="center">
-<img width="500" src="https://classfunc.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-classfunc6.5a44d6c2.webp&w=3840&q=75" alt="classfunc">
+<img width="500" src="https://classfunc.com/_next/static/media/logo-white.b118c5ad.svg" alt="classfunc">
 </div>
 
 <p align="center">
