@@ -20,14 +20,16 @@
 
 
 ### 🧑🏻‍💻 ***About Me***
-🌱 I usually work with HTML, CSS, Javascript, Typescript, ReactJS, NextJS, VueJS, Golang, v.v...
+🌱 About FE: HTML, CSS, Javascript, Typescript, ReactJS, NextJS, VueJS, TailwindCSS, Mui, Antd, ...
+<br />
+🌱 2+ YOE Back-end Develop: Golang(Fiber, GIN), NodeJs (ExpressJs), Cloud(AWS, GCP), DataBase(Firebase, MySQL, MongoDB, SQLServer) 
+<br />
 <br />
 <br />
 📫 Ask me anything you want here, If I were alive, I would reply within seconds 😉
 <br />
 <br />
 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
-
 
 <br />
 <br />
