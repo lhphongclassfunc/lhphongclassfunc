@@ -20,9 +20,10 @@
 
 
 ### 🧑🏻‍💻 ***About Me***
-🌱 About FE: HTML, CSS, Javascript, Typescript, ReactJS, NextJS, VueJS, TailwindCSS, Mui, Antd, ...
+🌱 3+YOE FE: HTML, CSS, Javascript, Typescript, ReactJS, NextJS, VueJS, TailwindCSS, Mui, Antd, ...
 <br />
-🌱 2+ YOE Back-end Develop: Golang(Fiber, GIN), NodeJs (ExpressJs), Cloud(AWS, GCP), DataBase(Firebase, MySQL, MongoDB, SQLServer) 
+<br />
+🌱 2+YOE Back-end Develop: Golang(Fiber, GIN), NodeJs (ExpressJs), Cloud(AWS, GCP), DataBase(Firebase, MySQL, MongoDB, SQLServer) 
 <br />
 <br />
 <br />
